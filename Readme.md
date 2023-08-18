@@ -1,21 +1,10 @@
 
 <!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com](https://dazzling-pothos-ef8f6a.netlify.app">Bart Tabusao</a></b>
-        </samp>
-</h3>
+<h1 align="center">Hi 👋, I'm Bart Tabusao</h1>
+<h3 align="center">I am a passionate, proactive, and hardworking Software Developer.</h3>
 
+- 💬 Ask me about **React, Next Js, Typescript, and Node js**
 
-<p align="center"> 
-  <samp>
-    <a href="https://www.google.com/search?q=Bart Tabusao">「 Google Me 」</a>
-    <br>
-    「 I am a software developer from <b>Philippines</b> 」
-    <br>
-    <br>
-  </samp>
-</p>
 
 <!-- About Section -->
  # About me
@@ -32,7 +21,7 @@
 <br/>
 <br/>
 
-## My Technologies
+<h3 align="left">Languages and Tools:</h3>
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
