@@ -2,8 +2,7 @@
 <!-- Intro  -->
 <h1 align="center">Hi 👋, I'm Bart Tabusao</h1>
 <h3 align="center">I am a passionate and proactive Software Developer.</h3>
-
-- 💬 Ask me about **React, Next Js, Typescript, Node js, and AWS Services**
+I build user interfaces for websites and apps using React, Next.js and AWS Services. I've been doing this for two years now, and I'm always learning new things. I love working with others and keeping up with the latest technology.
 
 
 <!-- About Section -->
