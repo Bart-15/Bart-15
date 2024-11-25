@@ -1,24 +1,26 @@
+# 👋 Hi there! I'm Bart Tabusao
 
-<!-- Intro  -->
-<h1 align="center">Hi 👋, I'm Bart Tabusao</h1>
-<h3 align="center">I am a passionate and proactive Software Developer.</h3>
-I build user interfaces for websites and apps using React, Next.js and AWS Services. I've been doing this for two years now, and I'm always learning new things. I love working with others and keeping up with the latest technology.
+I’m a passionate **Frontend Developer** with over **3 years of experience** building user-friendly, high-performance interfaces for websites and applications. My expertise lies in:  
+- **React**  
+- **Next.js**  
+- **Vite**
+- **Node.js**
+- **TypeScript**
+- **AWS**  
 
+🌟 **What I Do:**  
+- Craft seamless, responsive, and dynamic user experiences.  
+- Implement modern design patterns and best practices for scalability and maintainability.  
+- Explore and integrate cutting-edge technologies to improve performance and usability.  
 
-<!-- About Section -->
- # About me
+🌐 **What I'm Learning:**  
+I’m diving deeper into **AWS services** to broaden my knowledge of cloud-based solutions and serverless architectures. My goal is to merge cloud expertise with frontend development to create end-to-end solutions.  
 
-<p>
- <img align="right" width="350" src="/img/coding.gif" alt="Coding gif" />
-  
- 🚀 &emsp; Passionate and Proactive Software Developer <br/><br/>
- ❤️ &emsp; Loves to learn new technologies <br/><br/>
- 📧 &emsp; Reach me anytime: brat.tabusao@gmail.com <br/><br/>
- 
-</p>
+💡 **What I Value:**  
+I thrive in collaborative environments and love learning from peers. Staying updated with the latest trends and tools in technology is what fuels my drive as a developer.  
 
-<br/>
-<br/>
+🚀 **Let’s Connect:**  
+I’m always open to new opportunities, exciting collaborations, and interesting projects. Feel free to reach out!
 
 <h3 align="left">Languages and Tools:</h3>
 
